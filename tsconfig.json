@@ -3,7 +3,7 @@
   "compilerOptions": {
     "target": "es5",
     "module": "commonjs",
-    "strict": false,
+    "strict": true,
     "moduleResolution": "node",
     "lib": ["es2015", "es2016", "esnext"],
     "jsx": "react-native"
